@@ -5,3 +5,5 @@ master 4
 feature 1
 feature 2
 master 5
+feature2 1
+
