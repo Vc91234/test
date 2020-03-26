@@ -8,4 +8,5 @@ master 5
 feature2 1
 feature2 2
 master 6
+master 7
 
